@@ -2,7 +2,7 @@
 
 ![Imagen del Proyecto](img/encriptador.png)
 
-Descripción del proyecto:
+<h3>Descripción del proyecto:</h3>
 
 El presente repositorio contiene un encriptador de texto, en cual podrás encriptar y desencriptar texto, a la vez que podrás copiarlo al portapapeles para colocarlo donde quieras.
 ## Características
