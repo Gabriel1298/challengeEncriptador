@@ -1,6 +1,6 @@
 # challengEncriptador
 
-![Imagen del Proyecto](ruta/a/la/imagen.png)
+![Imagen del Proyecto](img/encriptador.png)
 
 Descripción del proyecto:
 
